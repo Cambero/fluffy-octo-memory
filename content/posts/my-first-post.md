@@ -23,19 +23,4 @@ _Bye bye_**!**
 
 
 
-{{< wheel "https://wheelofnames.com/p4s-3ty" >}}
-
-
-<iframe
-  src="https://wheelofnames.com/p4s-3ty"
-  width="100%" height="800">
-</iframe>
-
-
-<iframe
-  src="{{ .Get 0 }}"  
-  width="100%" height="800">
-</iframe>
-
-
 finfin
